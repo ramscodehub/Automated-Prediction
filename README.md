@@ -64,6 +64,8 @@ pip install matplotlib
 3. [working with google sheets](https://www.youtube.com/watch?v=cnPlKLEGR7E&t=10s&ab_channel=TechWithTim "googleSheets")
 4. [working with markdown Language](https://www.youtube.com/watch?v=bpdvNwvEeSE&ab_channel=HiteshChoudhary "markdownLanguage")
 
+## To check the module on PyPI head on to [my PyPI account](https://pypi.org/project/dataVisualisation)
+
 ## License:
 ---------------------
 This Package is distributed under the [MIT license](https://opensource.org/licenses/MIT)
